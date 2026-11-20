@@ -1,0 +1,7 @@
+Product photos downloaded from Unsplash and used under the Unsplash License:
+https://unsplash.com/license
+
+office-chair.jpg: https://images.unsplash.com/photo-1592078615290-033ee584e267
+laptop-desk.jpg: https://images.unsplash.com/photo-1496181133206-80ce9b88a853
+printer-paper.jpg: https://images.unsplash.com/photo-1517842645767-c639042777db
+desk-lamp.jpg: https://images.unsplash.com/photo-1507473885765-e6ed057f782c

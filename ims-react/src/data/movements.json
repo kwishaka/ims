@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "productName": "Office Chairs",
+    "type": "Stock In",
+    "quantity": 20,
+    "employeeName": "Jean Claude",
+    "employeeEmail": "jean.claude@example.com",
+    "date": "2026-09-10",
+    "status": "Approved"
+  },
+  {
+    "id": 2,
+    "productName": "Laptops",
+    "type": "Stock Out",
+    "quantity": 5,
+    "employeeName": "Alice Uwera",
+    "employeeEmail": "alice.uwera@example.com",
+    "date": "2026-09-15",
+    "status": "Pending"
+  },
+  {
+    "id": 3,
+    "productName": "Printer Paper (Reams)",
+    "type": "Stock In",
+    "quantity": 100,
+    "employeeName": "Jean Claude",
+    "employeeEmail": "jean.claude@example.com",
+    "date": "2026-09-18",
+    "status": "Approved"
+  },
+  {
+    "id": 4,
+    "productName": "Laptops",
+    "type": "Stock Out",
+    "quantity": 3,
+    "employeeName": "Alice Uwera",
+    "employeeEmail": "alice.uwera@example.com",
+    "date": "2026-09-20",
+    "status": "Rejected"
+  }
+]
