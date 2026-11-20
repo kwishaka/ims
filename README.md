@@ -13,7 +13,6 @@ An inventory management and customer ordering demo built with React and Vite. Th
 ## Run locally
 
 Requirements: Node.js and npm.
-
 ```powershell
 cd ims-react
 npm install
